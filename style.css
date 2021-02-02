@@ -1,0 +1,21 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.container {
+    background-color: rgb(237, 101, 101);
+}
+/*
+.inner-container {
+    background-color: rgb(97, 186, 208);
+}
+*/
+
+h1 {
+    font: italic;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
